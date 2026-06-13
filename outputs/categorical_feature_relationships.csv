@@ -1,0 +1,22 @@
+gender,approval_rate,feature,region,marital_status,education_level,employment_type,loan_purpose
+Male,0.2321688500727802,gender,,,,,
+Female,0.23101380813953487,gender,,,,,
+,0.23924828333935672,region,West,,,,
+,0.23218181818181818,region,South,,,,
+,0.232086940504697,region,North,,,,
+,0.22286436698573234,region,East,,,,
+,0.2331969076853115,marital_status,,Married,,,
+,0.2299863698318946,marital_status,,Single,,,
+,0.23564571635573267,education_level,,,Master,,
+,0.23219871205151793,education_level,,,Bachelor,,
+,0.22944034551016734,education_level,,,High School,,
+,0.2290869327501367,education_level,,,PhD,,
+,0.23813803019410495,employment_type,,,,Salaried,
+,0.23422459893048128,employment_type,,,,Student,
+,0.22988505747126436,employment_type,,,,Self-Employed,
+,0.22376052385406922,employment_type,,,,Business,
+,0.23784024988844266,loan_purpose,,,,,Home
+,0.23674671499773448,loan_purpose,,,,,Business
+,0.23415977961432508,loan_purpose,,,,,Personal
+,0.22576240327719618,loan_purpose,,,,,Car
+,0.223242994947175,loan_purpose,,,,,Education
