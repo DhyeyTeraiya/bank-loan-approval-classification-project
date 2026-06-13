@@ -129,6 +129,66 @@ The code creates:
 
 The generated chart files are saved in the `outputs/` folder.
 
+## Data Visualization
+
+Visualization is included in the project as part of EDA and model evaluation.
+
+The project creates visual charts to understand:
+
+- Loan approval and rejection count
+- Relationship between numeric columns
+- Credit score difference between approved and rejected customers
+- Approval rate by categorical columns
+- Confusion matrix for every machine learning model
+
+### Visualization Files
+
+All visualization files are saved inside the `outputs/` folder.
+
+```text
+outputs/target_distribution.png
+```
+
+Shows how many loan applications were approved and rejected.
+
+```text
+outputs/correlation_heatmap.png
+```
+
+Shows the relationship between numeric features.
+
+```text
+outputs/credit_score_vs_loan_approval.png
+```
+
+Shows how credit score changes for approved and rejected applications.
+
+```text
+outputs/numeric_feature_relationships.png
+```
+
+Shows which numeric features have stronger relationships with loan approval.
+
+```text
+outputs/approval_rate_by_gender.png
+outputs/approval_rate_by_region.png
+outputs/approval_rate_by_marital_status.png
+outputs/approval_rate_by_education_level.png
+outputs/approval_rate_by_employment_type.png
+outputs/approval_rate_by_loan_purpose.png
+```
+
+These charts show approval rate by different customer groups.
+
+```text
+outputs/logistic_regression_confusion_matrix.png
+outputs/knn_classifier_confusion_matrix.png
+outputs/naive_bayes_confusion_matrix.png
+outputs/decision_tree_confusion_matrix.png
+```
+
+These charts show confusion matrices for all models.
+
 ### Relationship Analysis
 
 In every data science project, we should find relationships between input
