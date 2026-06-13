@@ -189,6 +189,52 @@ outputs/decision_tree_confusion_matrix.png
 
 These charts show confusion matrices for all models.
 
+### Visualization Preview
+
+#### Target Variable Distribution
+
+![Target Distribution](outputs/target_distribution.png)
+
+#### Correlation Heatmap
+
+![Correlation Heatmap](outputs/correlation_heatmap.png)
+
+#### Credit Score vs Loan Approval
+
+![Credit Score vs Loan Approval](outputs/credit_score_vs_loan_approval.png)
+
+#### Numeric Feature Relationship With Loan Approval
+
+![Numeric Feature Relationship](outputs/numeric_feature_relationships.png)
+
+#### Approval Rate by Gender
+
+![Approval Rate by Gender](outputs/approval_rate_by_gender.png)
+
+#### Approval Rate by Region
+
+![Approval Rate by Region](outputs/approval_rate_by_region.png)
+
+#### Approval Rate by Education Level
+
+![Approval Rate by Education Level](outputs/approval_rate_by_education_level.png)
+
+#### Logistic Regression Confusion Matrix
+
+![Logistic Regression Confusion Matrix](outputs/logistic_regression_confusion_matrix.png)
+
+#### KNN Classifier Confusion Matrix
+
+![KNN Classifier Confusion Matrix](outputs/knn_classifier_confusion_matrix.png)
+
+#### Naive Bayes Confusion Matrix
+
+![Naive Bayes Confusion Matrix](outputs/naive_bayes_confusion_matrix.png)
+
+#### Decision Tree Confusion Matrix
+
+![Decision Tree Confusion Matrix](outputs/decision_tree_confusion_matrix.png)
+
 ### Relationship Analysis
 
 In every data science project, we should find relationships between input
